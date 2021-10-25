@@ -1,2 +1,2 @@
 # PermissionHelper
-android自定义注解实现动态权限申请
+Android基于注解的6.0权限动态申请
