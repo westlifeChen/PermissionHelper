@@ -1,0 +1,3 @@
+include ':permission-helper'
+include ':app'
+rootProject.name = "PermissionHelper"
